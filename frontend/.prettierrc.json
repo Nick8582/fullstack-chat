@@ -1,0 +1,17 @@
+{
+  "singleQuote": true,
+  "semi": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "quoteProps": "consistent",
+  "trailingComma": "es5",
+  "importOrder": [
+    "^react",
+    "^.(css|scss)$",
+    "<THIRD_PARTY_MODULES>",
+    "^components/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true
+}
